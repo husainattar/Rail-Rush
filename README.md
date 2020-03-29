@@ -1,6 +1,8 @@
 # Rail-Rush
 It is the Python implement Computer vision model which is used in the Rail-Rush App to detect crowd density in public transportation.
 
+For the application code base check out this [repo](https://github.com/husainattar/RailRush-React-App)
+
 This is a Keras with tensorflow backend Implementation.We have Implemented a CSRNET model with a slight modification 
 by using slight help from  MCNN model.
 We have trained our Model on Shanghai Dataset with the Links provided below.
